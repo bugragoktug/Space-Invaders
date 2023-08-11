@@ -1,0 +1,19 @@
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\bin\Debug\net6.0-windows\Space Invaders.exe
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\bin\Debug\net6.0-windows\Space Invaders.deps.json
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\bin\Debug\net6.0-windows\Space Invaders.runtimeconfig.json
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\bin\Debug\net6.0-windows\Space Invaders.dll
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\bin\Debug\net6.0-windows\Space Invaders.pdb
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space Invaders.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space_Invaders.Form1.resources
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space_Invaders.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space Invaders.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space Invaders.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space Invaders.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space Invaders.dll
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\refint\Space Invaders.dll
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space Invaders.pdb
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space Invaders.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\ref\Space Invaders.dll
+C:\Users\Administrator\Desktop\GıtHub Projeler\Space Invaders\Space Invaders\obj\Debug\net6.0-windows\Space_Invaders.Form2.resources
